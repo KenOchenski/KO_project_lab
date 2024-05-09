@@ -1,2 +1,5 @@
 three lines into
 add a line
+line1
+line2
+line3
